@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440806922710",
+    "project_id": "expense-manager-naveen-apps",
+    "storage_bucket": "expense-manager-naveen-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440806922710:android:38b2094ed3cb3c226dec77",
+        "android_client_info": {
+          "package_name": "com.naveenapps.expensemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwjhw3F-yRAtEfQdZrnLcPvRx4IQaY4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440806922710:android:a30cb963b5286fce6dec77",
+        "android_client_info": {
+          "package_name": "com.naveenapps.expensemanager.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwjhw3F-yRAtEfQdZrnLcPvRx4IQaY4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
