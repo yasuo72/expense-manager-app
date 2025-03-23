@@ -1,9 +1,5 @@
 ![Expense Manager Android](docs/images/splash.png)
 
-<p align="center">
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="320" />
-  </a>
-</p>
 
 Expense Manager
 ==================
