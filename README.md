@@ -6,7 +6,7 @@ Expense Manager
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![Build](https://github.com/nkuppan/expensemanager/actions/workflows/build.yml/badge.svg)](https://github.com/nkuppan/expensemanager/actions/workflows/build.yml)
 
-This is the repository for the [Expense Manager](https://expensemanager.naveenapps.com/) app. It is
+ It is
 a **work in progress** 🚧.
 
 **Expense Manager** is a fully functional Android app built entirely with Kotlin and Jetpack
