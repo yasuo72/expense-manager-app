@@ -57,7 +57,4 @@ Expense Manager attempts to make use of the latest Android libraries and best pr
 Please feel free to file an issue for errors, suggestions or feature requests. Pull requests are
 also encouraged.
 
-# License
 
-**Expense Manager** is distributed under the terms of the Apache License (Version 2.0). See the
-[license](LICENSE) for more information.
